@@ -12,12 +12,10 @@ My final milestone is the increased reliability and accuracy of my robot. I amel
 
 [![Final Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612573869/video_to_markdown/images/youtube--F7M7imOVGug-c05b58ac6eb4c4700831b2b3070cd403.jpg )](https://www.youtube.com/watch?v=F7M7imOVGug&feature=emb_logo "Final Milestone"){:target="_blank" rel="noopener"}
 
-[![third eye demonstration](https://res.cloudinary.com/marcomontalbano/image/upload/v1623949028/video_to_markdown/images/youtube--gpZ52UvLTlw-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=gpZ52UvLTlw "third eye demonstration"){:target="_blank" rel="noopener"}
-
 # Second Milestone
 My second milestone was to complete a final prototype with all my sensors and devices working. During the time of my first milestone, I had only finished the code for my ultrasonic sensor, but during this second week, I added the buzzer code, as well as the temperature sensor code. So, I now have a fully working prototype, and one final device I want to add is the vibrating motor, as that will make communication with the blind person easier. I haven't added it yet, as it seems adding it will require some soldering, and so that will be done in the third week. Speaking of soldering, since my prototype is currently connected to the breadboard, I plan to solder everything together to make something more permanent, doing this also in the third week.
 
-[![Third Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612574014/video_to_markdown/images/youtube--y3VAmNlER5Y-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=y3VAmNlER5Y&feature=emb_logo "Second Milestone"){:target="_blank" rel="noopener"}
+[![Chris' Second Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1624896625/video_to_markdown/images/youtube--JgPiH-cV6Qk-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=JgPiH-cV6Qk "Chris' Second Milestone"){:target="_blank" rel="noopener"}
 
 # First Milestone
   
