@@ -6,7 +6,10 @@ I'm working on a third eye for the blind, which is a device utilizing multiple s
 | Chris | Lynbrook High School | (still figuring out area of interest) | Incoming Junior
 
 ![Headstone Image](https://hackster.imgix.net/uploads/attachments/315304/third2beye2bfor2bthe2bblind_we34TitvS0.jpg?auto=compress%2Cformat&w=600&h=450&fit=min)
-  
+
+# Reflection
+This experience in BlueStamp has been a great one, and I'm glad that I took this opportunity. It was my first time doing an engineering project, and assembling all the parts together and doing the code was quite fun. There were some confusing moments, and at times it also got boring, but that was all part of the process. Getting familiar with all the parts in the kit was like getting introduced to a fancy and complicated looking lego set, and it got me excited for what was to come. I also learned to be flexible, and to be able to adjust my goals according to the situation. Overall, I gained quite a bit from this three week program of BlueStamp, and who knows, I might come again.
+
 # Final Milestone
 When I finished my second milestone, I had thought that my final milestone would've been to solder everything together. However, after soldering my vibrating motor wires to a jumper wire, I realized that I was much too inexperienced with soldering to get everything done in time. There was also the chance that I would mess up the soldering, and that would complicate things even more. So, the only soldering I did this third week was for the vibrating motors, and I changed my third milestone goal to soldering the vibrating motor and to get my device into a shape that could be worn, instead of soldering everything together. The main tool I used to assemble everything were the zipties, and they actually proved to be pretty effective. Since I was also using the breadboard instead of the perfboard, I had a larger project, and that made connecting everything together easier as well.
 
