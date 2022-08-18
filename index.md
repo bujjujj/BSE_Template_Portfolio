@@ -3,7 +3,7 @@ I'm working on a third eye for the blind, which is a device utilizing multiple s
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
-| Chris | Lynbrook High School | (still figuring out area of interest) | Incoming Junior
+| Chris | Lynbrook High School | Computer Science | Incoming Junior
 
 ![Headstone Image](https://hackster.imgix.net/uploads/attachments/315304/third2beye2bfor2bthe2bblind_we34TitvS0.jpg?auto=compress%2Cformat&w=600&h=450&fit=min)
 
